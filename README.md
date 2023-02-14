@@ -1,6 +1,8 @@
 # Flixster
 
-# Project 2 - Flixster
+# Project 2 - Flixster - PART I 
+
+
 
 Submitted by: Efrain Rodriguez Santiago
 
@@ -38,3 +40,34 @@ https://user-images.githubusercontent.com/93145681/217942769-06582531-0ff9-4a9a-
 ## Notes
 
 One of the challenges is the auto layout constraints. It took me most of the time to fix the layout in order for the movie picture, title and description not overlap each other. 
+
+
+
+# Project 3 - Flixster - PART 2
+
+Submitted by: Efrain Rodriguez
+
+This is the second part of the application called Flixster. In this part of the application I was able to work on Collection views and Tab Controllers.
+
+Time spent: 20 hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [ *] Implement network call and table view to display a list of movies currently playing (title, description, image)
+- [ *] App has a collection view with the same list of movies
+- [ *] Uses a tab bar controller to switch between collection view and table view screens
+ 
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+## Notes
+
+
+https://user-images.githubusercontent.com/93145681/218850561-5d7a5570-d317-4694-b8df-60163f621b7d.mp4
+
+
+It was really hard for me to connect the movie id to the api in order to get similar movies. I tried for like a day but was stuck and was not able to make that button functional. 
