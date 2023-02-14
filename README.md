@@ -64,10 +64,10 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-## Notes
+
 
 
 https://user-images.githubusercontent.com/93145681/218850561-5d7a5570-d317-4694-b8df-60163f621b7d.mp4
-
+## Notes
 
 It was really hard for me to connect the movie id to the api in order to get similar movies. I tried for like a day but was stuck and was not able to make that button functional. 
